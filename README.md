@@ -84,3 +84,63 @@ Display Splace Screen
 IF Start Button clicked THEN
 Open Main Sreen
 ENDIF 
+
+Calculate Total Items Packed 
+
+FOR each item in array
+Add quantity
+Score total
+NEXT
+
+Display total items packed
+
+IF Detailed View Button clicked THEN
+Open Detailed View Screen
+ENDIF
+
+Display:
+
+* Items
+* Category
+* Quantity
+* Comments
+
+END
+
+# Screenshots 
+
+## Splash Screen
+
+<img width="1918" height="1022" alt="Screenshot 2026-06-10 105756" src="https://github.com/user-attachments/assets/862bc329-283b-438b-a771-7adba9a327d3" />
+
+Description: The Splash Screen welcomes users to the application.
+
+## Main Screen 
+
+<img width="1918" height="1018" alt="Screenshot 2026-06-10 105813" src="https://github.com/user-attachments/assets/56a8865f-5107-424b-b31c-a474a3ec32b4" />
+
+Description: The Main Screen calculates and displays the camping gear and food supplies.
+
+## Detailed View Screen
+
+<img width="1918" height="1018" alt="Screenshot 2026-06-10 105836" src="https://github.com/user-attachments/assets/640fe15a-3478-4f0d-a682-f480f4d245ab" />
+
+Description: The Detailed View Screen displays all the camping gear and food supplies added>
+
+# GitHub Usage
+
+The project was developed using GitHub for version control.
+This was used to:
+
+* Store source code.
+* Track project progress.
+* Maintain version history.
+* Backup project files.
+* Manage commits throughout development.
+
+# Conclusion
+
+The Campsite Commander App successfully demonstrates the use of Android Studio and Kotlin to create a functional mobile application. The project makes use of paralle arrays, loops for calculations, functions, error handling, and multiple screens to provide users with a packing list they need for camping, The application meets mosts the required practicum specifications and provides a user-friendly interface for viewing camping gear and food supplies.
+
+
+
