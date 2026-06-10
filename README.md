@@ -1,4 +1,4 @@
-# CampsiteCommander
+# Campsite Commander
 
 ## Student Information
 
