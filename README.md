@@ -12,7 +12,7 @@
 
 # Purpose of the Application
 
-The purpose of the application is to allow users in categorizing their camping gear and food supplies (e.g Shelter, Cooking, First Aid), ehile providing a detailed checklist view managing their supplies. This app stores items using parallel arrays, screen navigation, loops and also calculates the total items packed, in the following way: 
+The purpose of the application is to allow users in categorizing their camping gear and food supplies (e.g Shelter, Cooking, First Aid), and providing a detailed checklist view managing their supplies. This app stores items using parallel arrays, screen navigation, loops that calculates the total items packed in quantity, in the following way: 
 
 * Item Name
 * Category
@@ -32,18 +32,18 @@ Features:
 
 ## Main Screen
 
-The Main Screen allows users to interact with the camping gear and food supplies.
+The Main Screen allows users with listing the camping gears and food supplies.
 Features:
 
 * Displays the student name and student number.
 * Provides an "Add Gear" button
 * Provides a "View Gear" button
-* Displays the calculated total items
+* Displays the calculated total items packed
 * Displays a "Next" button
 
 ## Detailed View Screen
 
-The Detailed Screen displays complete camping gear and food supplies.
+The Detailed View Screen displays complete camping gear and food supplies.
 Features:
 
 * Item Name
@@ -130,7 +130,7 @@ Description: The Main Screen calculates and displays the camping gear and food s
 
 <img width="1918" height="1018" alt="Screenshot 2026-06-10 105836" src="https://github.com/user-attachments/assets/640fe15a-3478-4f0d-a682-f480f4d245ab" />
 
-Description: The Detailed View Screen displays all the camping gear and food supplies added>
+Description: The Detailed View Screen displays all the camping gear and food supplies added
 
 # GitHub Usage
 
