@@ -10,7 +10,7 @@
 
 **GitHub Repository Link:** https://github.com/Tinah-14/CampsiteCommander.git
 
-# Purpose og the Application
+# Purpose of the Application
 
 The purpose of the application is to allow users in categorizing their camping gear and food supplies (e.g Shelter, Cooking, First Aid), ehile providing a detailed checklist view managing their supplies. This app stores items using parallel arrays, screen navigation, loops and also calculates the total items packed, in the following way: 
 
@@ -28,6 +28,7 @@ Features:
 
 * Displays the "Campsite Commander" logo
 * Displays the app title while loading
+* Provides a "Start" button
 
 ## Main Screen
 
@@ -49,6 +50,10 @@ Features:
 * Category
 * Quantity
 * Comments
+
+Also provides with the following buttons:
+1. Display button
+2. Back to Base button
 
 # Arrays Used
 
