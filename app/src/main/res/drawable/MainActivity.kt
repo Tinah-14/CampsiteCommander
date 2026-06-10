@@ -13,15 +13,11 @@ import kotlin.jvm.java
 class MainActivity : AppCompatActivity() {
 
     private val item name = arrayOf(
-            "Tent"
-            "Marshmallows"
-            "Flashlight"
+            "Tent", "Marshmallows", "Flashlight"
     )
 
     private val category = arrayOf(
-        "Shelter"
-        "Food"
-        "Safety"
+        "Shelter", "Food", "Safety"
     )
 
     private val quantity = arrayOf(
@@ -29,9 +25,7 @@ class MainActivity : AppCompatActivity() {
     )
 
     private val comments = arrayOf(
-        "4-person waterproof
-        "For S'mores (Mega size)
-        "Flashlight not working"
+        "4-person waterproof", "For S'mores (Mega size)", "Flashlight not working"
     )
 
     @SuppressLint("MissingInflatedId", "SetTextI18n")
