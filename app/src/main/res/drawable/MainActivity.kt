@@ -13,7 +13,7 @@ import kotlin.jvm.java
 class MainActivity : AppCompatActivity() {
 
     private val item name = arrayOf(
-            "Tent", "Marshmallows", "Flashlight"
+        "Tent", "Marshmallows", "Flashlight"
     )
 
     private val category = arrayOf(
