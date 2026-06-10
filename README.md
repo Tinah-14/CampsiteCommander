@@ -23,7 +23,8 @@ The purpose of the application is to allow users in categorizing their camping g
 
 ## Splash Screen
 
-The Splash Screen is the first screen displayed when  the application launches. 
+The Splash Screen is the first screen displayed when  the application launches.
+
 Features:
 
 * Displays the "Campsite Commander" logo
@@ -33,6 +34,7 @@ Features:
 ## Main Screen
 
 The Main Screen allows users with listing the camping gears and food supplies.
+
 Features:
 
 * Displays the student name and student number.
@@ -44,6 +46,7 @@ Features:
 ## Detailed View Screen
 
 The Detailed View Screen displays complete camping gear and food supplies.
+
 Features:
 
 * Item Name
