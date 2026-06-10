@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+// ST10531711
+// NTHABISENG CELESTINAH LETSOELA
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")

@@ -37,6 +37,16 @@ class MainActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId", "SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
 
+        val editTextAmount = findViewById<EditText>(R.id.editTextAmount)
+        val amountString = editTextAmount.text.toString()
+        try {
+// Throws NumberFormatException if input contains non-numeric characters
+            val amount = amountString.toInt()
+        } catch (e: NumberFormatException) {
+// Handle the error gracefully without terminating the app process
+            Toast.makeText(this, "Please enter a valid number", Toast.LENGTH_SHORT).show()
+        }
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
